@@ -1,5 +1,5 @@
 # User
-Requirements: This program requires you to install the CMake version at least 3.12 which can be done following this website https://cmake.org/download/, and also the SEAL Microsoft Library for Homomorphic encryption, at least version 3.4, which can be done following the guide on this website https://github.com/Microsoft/SEAL.
+Requirements: This program requires you to install the CMake version at least 3.12 which can be done following this website https://cmake.org/download/, and also the SEAL Microsoft Library for Homomorphic encryption, at least version 3.6.1, which can be done following the guide on this website https://github.com/Microsoft/SEAL.
 
 ## Description: This program gives the user the ability to perform actions on the database.
  Such as:
