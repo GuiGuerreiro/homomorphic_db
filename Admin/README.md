@@ -16,4 +16,4 @@ For each user:
 
 - cmake . -DCMAKE_PREFIX_PATH=~/mylibs
 - make
-- ./admin [number of users]
+- sudo ./admin [number of users]
