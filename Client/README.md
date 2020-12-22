@@ -6,7 +6,7 @@ Requirements: This program requires you to install the CMake version at least 3.
  - CREATE TABLE "tablename" ("col1","col2","...")
  - INSERT INTO "tablename" ("col1","col2","...") VALUES ("val1","val2","...")
  1. SELECT LINE "rownumber" FROM "tablename"
-   - DELETE "linenum" FROM "tablename"
+    - DELETE "linenum" FROM "tablename"
 
  - SELECT "colx" FROM "tablename" WHERE "colx" <|>|= "value"
  
